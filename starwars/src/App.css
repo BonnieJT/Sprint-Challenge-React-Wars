@@ -1,8 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Arsenal|Notable&display=swap');
+
 .App {
   text-align: center;
+  font-family: 'Coda', cursive;
 }
 .Header {
   color: #443e3e;
   text-shadow: 1px 1px 5px #fff;
+  text-align: center;
+  font-family: 'Notable', sans-serif;
+  font-size: 65px;
+  letter-spacing: 15px;
 }
 /* write your parent styles in here for your App.js */
